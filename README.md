@@ -154,7 +154,13 @@ For the main Study in Italy guide:
 https://www.europeandreamss.com/study-in-italy
 
 These are included as related research resources; this repository is intended to remain useful as a standalone reference.
+## Published Research Article
 
+A detailed companion article based on this dataset:
+
+Study in Italy 2026/27: Tuition Fees, Scholarships & Application Deadlines — A Source-Backed Data Guide for Indian Students
+
+https://medium.com/@harshpatil53342/study-in-italy-2026-27-tuition-fees-scholarships-application-deadlines-a-source-backed-data-482bd79a92d8
 ## Disclaimer
 
 This repository is for research and educational reference only. It is not legal, immigration or university-admissions advice. Requirements can change, and the applicable university, ministry, consulate or official portal should be treated as the final authority.
