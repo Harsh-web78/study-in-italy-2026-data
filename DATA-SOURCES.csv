@@ -1,0 +1,13 @@
+entity,category,data_point,value,source_url,source_type,academic_year,last_verified
+Italy,Tuition,Public university tuition,"€900–€4,000/year",https://education.ec.europa.eu/study-in-europe/country-profiles/italy,European Education Area,2026/27,2026-10-01
+Italy,Tuition,Private institution tuition,"€6,000–€20,000+/year",https://education.ec.europa.eu/study-in-europe/country-profiles/italy,European Education Area,2026/27,2026-10-01
+Italy,Living Costs,Typical living costs,"€700–€1,100/month",https://education.ec.europa.eu/study-in-europe/country-profiles/italy,European Education Area,2026/27,2026-10-01
+MAECI,Scholarship,Application deadline,"2026-03-26",https://studyinitaly.esteri.it/ListaBandi/,Official MAECI source,2026/27,2026-10-01
+MAECI,Scholarship,Reference amount,"€10,800",https://studyinitaly.esteri.it/ListaBandi/,Official MAECI source,2026/27,2026-10-01
+Universitaly,International Students,Official portal,"Universitaly",https://www.universitaly.it/it/studenti-stranieri,Official Universitaly,2026/27,2026-10-01
+University of Milan,University,Official website,"https://www.unimi.it/",https://www.unimi.it/,Official university,2026/27,2026-10-01
+University of Genoa,University,Official website,"https://unige.it/en/",https://unige.it/en/,Official university,2026/27,2026-10-01
+University of Turin,University,Official website,"https://en.unito.it/",https://en.unito.it/,Official university,2026/27,2026-10-01
+University of Turin,Admissions,Postgraduate application period,"2025-11-25 to 2026-01-29",https://en.unito.it/,Official university,2026/27,2026-10-01
+University of Turin,Admissions,Undergraduate / 5–6 year application period,"2026-02-19 to 2026-04-15",https://en.unito.it/,Official university,2026/27,2026-10-01
+University of Turin,Fees,First instalment,"€156",https://en.unito.it/,Official university,2026/27,2026-10-01
